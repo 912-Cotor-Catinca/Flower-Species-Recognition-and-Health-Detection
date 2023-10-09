@@ -1,5 +1,7 @@
 # Flower-Species-Recognition-and-Health-Detection
 Bachelor Degree
+![Screenshot 2023-05-11 203000](https://github.com/912-Cotor-Catinca/Plant-Species-Recognition-and-Health-Detection/assets/72121526/6bdf6cb4-50d3-41c9-ad43-0e0ac3710b6c)
+
 
 # Plant Species Recognition
 ## Dataset
